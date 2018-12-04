@@ -1,11 +1,8 @@
 # lab-logging.py
-A script that allows SPU lab assistants to log their hours without having to use Banner.
 
-This project aims to get Robert Chung's original script working again. His project can be viewed here: https://github.com/Altrum/LabLoggingScript
+This project is a WIP to create and blend a Python GUI made with Tkinter to Robert Chung's original script that allows SPU employees to log the hours they worked without using banner. hiss script can be found here: https://github.com/Altrum/LabLoggingScript
 
-The main fix that currently needs to be solved is how to get Mechanize working. Mechanize is one of the packages that is necessary for this script's operation, and it is currently unrecognizable. This is not just on my system, but on a variety of other online sources. I have a feeling this issue stems from the package itself, but regardless, that is currently the main problem.
-
-Once the script gets up and running, one can test it by: 
+If one would like to test Robert's script, follow the instructions below:
 
   (1) Downloading the file
   
@@ -16,8 +13,10 @@ Once the script gets up and running, one can test it by:
   (4) Hardcoding the days and time you worked in lines 111-128.
 
   (5) Running the file.
+  
+ The GUI currently is very barebones as the scrollbar does not work and it has not blended with Robert's script. These are the two main things to work on.
 
 For Pull Requests:
 ------------------
 
-Since only a master branch exists in this repo, make sure that your edits and revisions are congruent with the content of labHours.py.
+Since only a master branch exists in this repo, make sure that your edits and revisions are congruent with the content of labGUI.py and/or  labHours.py. 
