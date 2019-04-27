@@ -1,6 +1,6 @@
 # lab-logging.py
 
-This project is a WIP to create and blend a Python GUI made with Tkinter to Robert Chung's original script that allows SPU employees to log the hours they worked without using banner. hiss script can be found here: https://github.com/Altrum/LabLoggingScript
+This project is a WIP to create and blend a Python GUI made with Tkinter to Robert Chung's original script that allows SPU employees to log the hours they worked without using banner. Robert's original script can be found here: https://github.com/Altrum/LabLoggingScript
 
 If one would like to test Robert's script, follow the instructions below:
 
